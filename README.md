@@ -1,4 +1,5 @@
 PROJECT 4 - BUILDING A SERVERLESS BLOG
+
 This is the 4th project (2nd of intermediate level ) trying to serve CCFS like the previous three,  refer to other repositories 
 Idea of this project is to build a serveless blog with AWS Lambda utilising S3 for front end, Lambda for backend, store data in dynamoDB and connect with AWS API gateway. 
 
