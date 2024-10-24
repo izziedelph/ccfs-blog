@@ -11,10 +11,7 @@ This project overall was not a success but I will re-attempt it again as this al
 
 Despite the challenges I faced, I still ended up with;
 
-A working serverless blog
-Frontend/backend integration
-CloudFront distribution
-DynamoDB storage
+A working serverless blog, Frontend/backend integration, CloudFront distribution, DynamoDB storage
 
 
 # CCFS Blog - Infrastructure Management
